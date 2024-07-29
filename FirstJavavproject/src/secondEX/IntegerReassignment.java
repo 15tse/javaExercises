@@ -9,7 +9,7 @@ public class IntegerReassignment {
 	        // Reassign a new value
 	        myInt = 20;
 	        System.out.println("New value: " + myInt);
-	    }
+	   }
 
 
 }
